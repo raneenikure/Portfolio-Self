@@ -1,0 +1,304 @@
+/* start css for section home */
+.yellow {
+    background-color: #ff9441;
+    height: 750px;
+    width: 50%;
+    float: left;
+}
+
+.black {
+    background-color: #1F3040;
+    height: 750px;
+    width: 50%;
+    float: right;
+}
+
+.home_inner {
+    background-color: #ffffff;
+    height: 650px;
+    position: absolute;
+    top: 8%;
+    left: 10%;
+    right: 10%;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+}
+
+#resume {
+
+    border-radius: 7px;
+    background-color: #ff9441;
+    color: #ffffff;
+    padding: 10px 35px;
+    margin-top: 35px;
+    margin-right: 72%;
+    font-size: 24px;
+}
+
+.home_inner a {
+
+    font-family: 'Playfair Display', serif;
+    float: right;
+    padding-top: 20px;
+    padding-right: 40px;
+    color: black;
+    font-size: 26px;
+    font-weight: 500;
+    text-decoration: none;
+    margin-top: 30PX;
+}
+
+a:hover {
+    color: #ff9441;
+
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 50px;
+    padding-top: 10%;
+    padding-left: 10%;
+}
+
+#span1 {
+    font-size: 40px;
+    font-family: 'Playfair Display', serif;
+}
+
+.home_inner P {
+    font-family: 'Open Sans', Arial, sans-serif;
+    padding-left: 10%;
+    margin-top: 20px;
+    text-align: justify;
+    width: 45%;
+    font-size: 20px;
+}
+
+.photos {
+    float: right;
+    height: 100px;
+    background-color: #6C8AA4;
+    border-radius: 10px;
+
+    margin-top: 0%;
+
+}
+
+#photo1 {
+    margin-left: 10px;
+    box-shadow: -10px 0px 10px #363030;
+
+}
+
+#photo2 {
+    margin-top: 10%;
+    box-shadow: -10px 0px 10px #363030;
+
+}
+
+#photo3 {
+    box-shadow: -10px 0px 10px #363030;
+
+}
+
+#photo4 {
+    margin-top: 10%;
+    box-shadow: -10px 0px 10px #363030;
+
+}
+
+/* End css for section home */
+
+/* start css for section About Me */
+
+.container {
+
+    font-family: 'Open Sans', Arial, sans-serif;
+    text-align: justify;
+}
+
+.AboutMe {
+
+    padding-left: 10%;
+    padding-right: 10%;
+
+}
+
+#about {
+    padding-top: 30px;
+
+}
+
+p {
+    font-size: 18px;
+
+}
+
+h3 {
+    margin-top: 30px;
+    margin-bottom: 35px;
+    font-weight: 600;
+    font-family: 'Open Sans', Arial, sans-serif;
+}
+
+h6 {
+    font-size: 18px;
+    font-weight: 700;
+    padding-bottom: 10px;
+}
+
+.ui {
+    background-color: #ff9441;
+    padding: 30px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-bottom: 30px;
+    text-align: justify;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+.content {
+    background-color: #6C8AA4;
+    padding: 30px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    text-align: justify;
+    font-size: 18px;
+    color: #fff;
+
+}
+
+.web {
+
+    background-color: #6C8AA4;
+    padding: 30px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    text-align: justify;
+    font-size: 18px;
+    color: #fff;
+}
+
+.softskill {
+
+    background-color: #ff9441;
+    padding: 30px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    text-align: justify;
+    font-size: 18px;
+}
+
+/* End css for section About Me */
+
+/* start css for section Skills */
+.skill {}
+
+#skill1 {
+    background-color: #1F3040;
+    padding: 20px;
+    color: #ffffff;
+    border-radius: 10px;
+
+}
+
+h4 {
+    font-weight: 700;
+    padding-bottom: 20px;
+}
+
+.technical {
+    background-color: #363030;
+    color: #ffffff;
+    border-radius: 10px;
+    font-size: 18px;
+    padding-top: 30px;
+    padding-left: 40px;
+    padding-bottom: 30px;
+    margin-bottom: 20px;
+}
+
+.additional {
+    background-color: #ff9441;
+    border-radius: 10px;
+    font-size: 18px;
+    padding-left: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+
+/* End css for section Skills*/
+
+/* start css for section Projects */
+
+.project {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.project a {
+    display: block;
+    text-decoration: none;
+    padding-left: 40px;
+    padding-top: 60px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #363030;
+
+}
+
+.project a:hover {
+    color: #ff9441;
+}
+
+.row {
+    border-radius: 10px;
+
+}
+
+img {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    box-shadow: -10px 0px 10px #363030;
+}
+
+.container-fluid {
+    background-color: #1F3040;
+    color: #ffffff;
+    padding-bottom: 40px;
+}
+
+i {
+    padding-left: 30px;
+    padding-top: 10px;
+
+
+}
+
+.container-fluid p {
+    padding-left: 90px;
+
+}
+
+.container-fluid a {
+    color: #ffffff;
+}
+
+.container-fluid h3 {
+    padding-top: 40px;
+    margin-bottom: 45px;
+    margin-left: 30px;
+    font-weight: 600;
+    font-family: 'Open Sans', Arial, sans-serif;
+
+}
